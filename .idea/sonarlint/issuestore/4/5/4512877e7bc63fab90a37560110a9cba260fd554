@@ -1,0 +1,20 @@
+
+2
+java:S1643"Use a StringBuilder instead.(Òû‚
+v
+java:S1104"aMake textReplacementReport a static final constant or non-public and provide accessors if needed.(ûî
+u
+java:S1104"ZMake processedFiles a static final constant or non-public and provide accessors if needed.(òƒé°üÿÿÿÿ
+o
+java:S1104"TMake replaced a static final constant or non-public and provide accessors if needed.(İƒ¤üşÿÿÿÿ
+P
+java:S1444";Make this "public static textReplacementReport" field final(ûî
+O
+java:S1444"4Make this "public static processedFiles" field final(òƒé°üÿÿÿÿ
+I
+java:S1444".Make this "public static replaced" field final(İƒ¤üşÿÿÿÿ
+2
+java:S2386"Make this member "protected".(ûî
+W
+java:S1118
+":Add a private constructor to hide the implicit public one.(µÛòÆ8«²¿¶ª0

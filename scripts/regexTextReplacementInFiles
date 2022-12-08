@@ -1,0 +1,2 @@
+#!/bin/bash
+java -cp build/classes/java/main interview.exercise.RegexTextReplacementInFiles $*

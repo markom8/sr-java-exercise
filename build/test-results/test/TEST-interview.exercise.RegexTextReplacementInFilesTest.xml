@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="interview.exercise.RegexTextReplacementInFilesTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-16T14:42:13" hostname="WORKSTATION" time="0.071">
+  <properties/>
+  <testcase name="processTestWithFileAcceptPattern" classname="interview.exercise.RegexTextReplacementInFilesTest" time="0.071"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Aug 16, 2022 4:42:13 PM interview.exercise.validator.RegexTextReplacementInFilesParameterValidation processParametersValidation
+INFO: All parameters in the process are validated.
+Aug 16, 2022 4:42:13 PM interview.exercise.replacement.Report logReport
+INFO: Processed 7 files
+
+Replaced to '<-replaced->':
+ * landing : 10 occurence
+ * plants : 2 occurence
+ * plans : 2 occurence
+ * lands : 2 occurence
+ * Planitia : 2 occurence
+ * lander : 2 occurence
+
+Aug 16, 2022 4:42:13 PM interview.exercise.replacement.Report logReport
+INFO: Processed 7 files
+
+Replaced to '<-replaced->':
+ * landing : 10 occurence
+ * plants : 2 occurence
+ * plans : 2 occurence
+ * lands : 2 occurence
+ * Planitia : 2 occurence
+ * lander : 2 occurence
+
+Aug 16, 2022 4:42:13 PM interview.exercise.replacement.Report logReport
+INFO: Processed 7 files
+
+Replaced to '<-replaced->':
+ * landing : 10 occurence
+ * plants : 2 occurence
+ * plans : 2 occurence
+ * lands : 2 occurence
+ * Planitia : 2 occurence
+ * lander : 2 occurence
+
+]]></system-err>
+</testsuite>

@@ -1,0 +1,6 @@
+
+p
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(Íï‚ıÿÿÿÿ8ÁÑµ¸ª0
+d
+java:S1659*"IDeclare "regexPattern" and all following declarations on a separate line.(ÙÔ˜şÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(¬íãøÿÿÿÿ
